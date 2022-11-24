@@ -1,0 +1,16 @@
+.test {
+  border: 1px solid black;
+  padding: 5px;
+  background-color: burlywood;
+}
+
+body {
+  height: 1000px;
+}
+
+.dragItem {
+  border: 1px solid black;
+  padding: 5px;
+  background-color: burlywood;
+  position: absolute;
+}
